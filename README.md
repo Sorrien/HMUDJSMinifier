@@ -5,4 +5,6 @@ Before using this, setup the app.config so that the script path setting contains
 You can also setup a default script file to minify, so you can just hit enter when it asks for a file name.
 If you want the minified version to append text to the minified file name, you can add that in the config as well. By default, it's blank.
 
+This application makes use of the Microsoft Ajax Minifier library: http://ajaxmin.codeplex.com/wikipage?title=AjaxMin%20DLL
+
 Hopefully someone else finds this useful.
