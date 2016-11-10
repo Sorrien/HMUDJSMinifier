@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+    </startup>
+  <appSettings>
+    <add key="scriptspath" value="C:\Users\Collin\Documents\hackmudscriptsbak\" />
+    <add key="hackmudpath" value="C:\Users\Collin\AppData\Roaming\hackmud\s0rr13n\scripts" />
+  </appSettings>
+</configuration>
